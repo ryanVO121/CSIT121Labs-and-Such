@@ -1,0 +1,14 @@
+body{
+    font family: verdana, velvetics, sans-serif;
+    background-color:purple;
+}
+
+h1,h2 {
+  color:white;
+  font-size:122%;
+  text-transform:uppercase;
+  margin: 5px 10px 5px 10px
+}
+P {
+  line height:6cm;
+}
