@@ -1,0 +1,39 @@
+<Doctype html>
+<html>
+
+<head>
+	<title>Four Great Things I Like</title>
+</head>
+
+<body>
+	
+	<h1>Thing 1</h1>
+
+	<p>
+		<img src="https://live.staticflickr.com/566/22101987920_2510881865_b.jpg" 
+		alt="Image of King and Queens seat"
+	</p>
+
+	<h2>Thing 2</h2>
+
+	<p>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Chuck_E_Cheese_Dundalk%2C_MD.jpg" 
+		alt="Image of an abandoned place of worship for young souls"
+	</p>
+
+	<h3>Thing 3</h3>
+
+	<p>
+		<div class="addimg">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Edgemere%2C_MD_21219%2C_USA_-_panoramio_%2817%29.jpg"
+		alt="North Point state park, a park that I have xplored for man years"
+	</p>
+
+	<h4>Thing 4</h4>
+
+	<p>
+		<div class="addimg">
+		<img src="https://live.staticflickr.com/65535/50016373346_9d1c13940e_b.jpg"
+		alt="A good goofy dog, my favoire type of dog"
+	</body>
+	</html>
