@@ -3,6 +3,14 @@ body{
     background-color:purple;
 }
 
+<div class="box">
+ .box{
+      width: 20px;
+      height: 20px ;
+      backgroun: linear-gradient(red, purple);
+      }
+ </div>
+
 h1,h2 {
   color:white;
   font-size:122%;
