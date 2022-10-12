@@ -1,0 +1,39 @@
+body 
+	{background-color: #080E0E;
+	background-image: url(images/wallpaper.jpg);
+	font-family:Arial;}
+img 
+	{margin: 15px;
+	 border:  3px double #9400D3;
+	 width: 75%;}
+header 
+	{background-color: #3900F0;
+	 text-align: left;
+	 padding: 3px;
+	 font-family: comic sans;}
+h1
+	{font-size: 3em;
+	 letter-spacing: .3em;
+	 color: #FCFBFC;
+	 font-weight: 600}	  	
+h2
+	{color: #A9A9A9}
+nav
+	{font-weight: 700;
+	 text-align: left;
+	 font-size: 1.75em;
+	 padding: 3px;
+	 background-color: #A9A9A9;}
+a	 	
+	{color: #9400D3;}
+a:hover
+	{color: #FCFBFC;}	
+main 
+	{padding: 1.5 em;}	
+.center 
+	{text-align: left;}	
+footer 
+	{background-color: #9400D3;
+	 font-size: 300;
+	 text-align: center;
+	 color: #A9A9A9; }
