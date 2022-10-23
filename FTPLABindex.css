@@ -1,0 +1,38 @@
+body 
+	{background-color: #080E0E;
+	background-image: url(images/wallpaper.jpg);
+	font-family:Arial;}
+header 
+	{background-color: #3900F0;
+	 text-align: left;
+	 padding: 3px;
+	 <font face = "Times New Roman" size = "5">Times New Roman</font>}
+h1
+	{font-size: 3em;
+	 letter-spacing: .3em;
+	 color: white;
+	 font-weight: 600}	  	
+h2
+	{color: white; 
+ 	text-align: center;}
+nav
+	{font-weight: 700;
+	 text-align: left;
+	 font-size: 1.75em;
+	 padding: 3px;
+	 background-color: #A9A9A9;}
+p
+	{color:#9400D3;}
+a	 	
+	{color: #9400D3;}
+a:hover
+	{color: #FCFBFC;}	
+main 
+	{padding: 1.5 em;}	
+.center 
+	{text-align: center;}	
+footer 
+	{background-color: #9400D3;
+	 font-size: 300;
+	 text-align: center;
+	 color: #A9A9A9; }
