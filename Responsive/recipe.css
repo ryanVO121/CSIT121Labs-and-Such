@@ -1,0 +1,28 @@
+@media (max-width: 768px) {
+    body {
+    background-color: #080E0E;
+    text-align: left;
+    font-weight: 30px;
+  }
+  head{
+    background-color: #3900F0;
+    text-align: left;
+    font-weight: 50px;
+  }
+}
+
+  body{
+    font-family: Times, Times New Roman, Georgia, serif;
+    background-color:#800080;
+}
+
+h1{ 
+  color:white;
+  font-size:122%;
+  text-transform:uppercase;
+  margin: 5px 10px 5px 10px}
+ h2{ 
+  color:white;
+  font-size:122%;
+  text-transform:uppercase;
+  margin: 5px 10px 5px 10px}
